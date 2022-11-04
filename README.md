@@ -9,5 +9,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Night-101&theme=dracula">
 </p>
 
+### My Badges 🎖
 
 [![@night's Holopin board](https://holopin.me/night)](https://holopin.io/@night)
